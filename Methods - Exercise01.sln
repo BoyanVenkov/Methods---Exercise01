@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Validator", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Add and Subtract", "05. Add and Subtract\05. Add and Subtract.csproj", "{016FA186-613D-465C-BF23-EF8E014DA9D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Middle Characters", "06. Middle Characters\06. Middle Characters.csproj", "{1A67053C-0BA4-44DE-B2F2-43ABB025869B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{016FA186-613D-465C-BF23-EF8E014DA9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{016FA186-613D-465C-BF23-EF8E014DA9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{016FA186-613D-465C-BF23-EF8E014DA9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A67053C-0BA4-44DE-B2F2-43ABB025869B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A67053C-0BA4-44DE-B2F2-43ABB025869B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A67053C-0BA4-44DE-B2F2-43ABB025869B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A67053C-0BA4-44DE-B2F2-43ABB025869B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
