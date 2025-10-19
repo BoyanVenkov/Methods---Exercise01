@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. NxN Matrix", "07. NxN M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Factorial Division", "08. Factorial Division\08. Factorial Division.csproj", "{AA353DA3-0DDC-44C2-8E4A-BB530138D324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrome Integers", "09. Palindrome Integers\09. Palindrome Integers.csproj", "{311EC96C-E26D-4A39-9D51-02C1A3B6739F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AA353DA3-0DDC-44C2-8E4A-BB530138D324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA353DA3-0DDC-44C2-8E4A-BB530138D324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA353DA3-0DDC-44C2-8E4A-BB530138D324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311EC96C-E26D-4A39-9D51-02C1A3B6739F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311EC96C-E26D-4A39-9D51-02C1A3B6739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311EC96C-E26D-4A39-9D51-02C1A3B6739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311EC96C-E26D-4A39-9D51-02C1A3B6739F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
