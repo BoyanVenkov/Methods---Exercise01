@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Factorial Division", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrome Integers", "09. Palindrome Integers\09. Palindrome Integers.csproj", "{311EC96C-E26D-4A39-9D51-02C1A3B6739F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Number", "10. Top Number\10. Top Number.csproj", "{5572E6EB-5D93-4EB3-B4B8-90299E1CF244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array Manipulator", "11. Array Manipulator\11. Array Manipulator.csproj", "{0CEB4245-28BD-4BE7-BCEE-BBC36A6E648A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{311EC96C-E26D-4A39-9D51-02C1A3B6739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311EC96C-E26D-4A39-9D51-02C1A3B6739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311EC96C-E26D-4A39-9D51-02C1A3B6739F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5572E6EB-5D93-4EB3-B4B8-90299E1CF244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5572E6EB-5D93-4EB3-B4B8-90299E1CF244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5572E6EB-5D93-4EB3-B4B8-90299E1CF244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5572E6EB-5D93-4EB3-B4B8-90299E1CF244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEB4245-28BD-4BE7-BCEE-BBC36A6E648A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEB4245-28BD-4BE7-BCEE-BBC36A6E648A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEB4245-28BD-4BE7-BCEE-BBC36A6E648A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEB4245-28BD-4BE7-BCEE-BBC36A6E648A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
